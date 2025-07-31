@@ -1,53 +1,36 @@
-------------------------------------------Hapus Bagian ini saat pengumpulan------------------------------------------
-
-<br>
-Silakan buat repository di Organisasi Software-Enginnering-TUS dengan struktur seperti di bawah ini:
-
-
-1. Klik `use this template`
-<br> ![WebApp](https://github.com/Software-Engineering-TUS/TugasAkhir-NIM-Nama/blob/main/images/hapus%20folder%20ini%20saat%20pengumpulan/Screenshot%202025-07-30%20155515.png)
-2. Beri nama repository dengan format `TugasAkhir-NIM-Nama`
-<br> ![WebApp](https://github.com/Software-Engineering-TUS/TugasAkhir-NIM-Nama/blob/main/images/hapus%20folder%20ini%20saat%20pengumpulan/Screenshot%202025-07-30%20155730.png)
-3. Beri deskripsi dengan format `Nama Aplikasi by Nama Lengkap`
-<br> ![WebApp](https://github.com/Software-Engineering-TUS/TugasAkhir-NIM-Nama/blob/main/images/hapus%20folder%20ini%20saat%20pengumpulan/Screenshot%202025-07-30%20155833.png)
-4. Atur visibilitas repository agar menjadi `Private`
-5. Klik `Create repository`
-6. Setelah repository sudah dibuat, clone repository 
-7. Kemudian ikuti panduan untuk penempatan hasil tugas akhri ke masing-masing folder pada template
-
-(repository TugasAkhir ini menjadi template repository masing-masing)
-```
-TugasAkhir-NIM-NamaLengkap/
-│   ├── README.md
-│   └── document/
-│       └── simpan_document_difolder_ini
-│   └── src/
-│       └── simpan_sourcecode_difolder_ini
-│   └── image/
-│       └── simpan_gambar_difolder_ini
-│   └── video/
-│       └── simpan_video_difolder_ini
-```
-
-
-***Kemudian ikuti panduan di NIM-NamaLengkap/README.md**
-<br>
-
-------------------------------------------Hapus Bagian ini saat pengumpulan------------------------------------------
-
-### Video Tutorial Pengumpulan Tugas Akhir di Repository
-[![Watch the video](https://img.youtube.com/vi/LbY8ARt44Dk/0.jpg)](https://youtu.be/LbY8ARt44Dk)
-
-#
-
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG) <!-- silakan ganti gambar dengan screenshoot aplikasi yang dikembangkan -->
+# ![WebApp](https://github.com/Software-Engineering-TUS/12021210024-Sahitya/blob/main/images/Login.png) <!-- silakan ganti gambar dengan screenshoot aplikasi yang dikembangkan -->
 # Judul Tugas Akhir
-Nama Lengkap (NIM) alamat@email.mu
+Sahitya Rizky Hadi Susetyo (1201210024) sahityasusetyo@student.telkomuniversity.ac.id
 ## Abstrak
 <table>
 <tr>
 <td>
-  Silakan isikan abstrak disini agar nanti bisa dibaca oleh mahasiswa lainnya yang mungkin akan menjadikan tugas akhir ini sebagai referensi yang mungkin akan mengembangkan menjadi sesuatu yang bermanfaat.
+Tempat Praktek Keterampilan Usaha (TPKU) adalah unit Usaha Mikro Kecil 
+Menengah (UMKM) milik Pondok Pesantren Tebuireng, Jombang. TPKU ini 
+didirikan sebagai penunjang keberlangsungan pondok untuk mendukung kebutuhan 
+operasional sehari-hari. TPKU menyediakan berbagai keperluan di bidang konveksi 
+seperti seragam sekolah lengkap, kerudung, ikat pinggang, sepatu, sandal, kopyah, 
+hingga kasur dan bed cover, dan sebagainya. TPKU memiliki sebuah bagian  
+manajemen stok yang merupakan pihak yang bertugas untuk mengelola data stok 
+barang dan pendataan keluar-masuknya barang. 
+Selama ini, di TPKU pendataan stok serta keluar masuknya barang masih 
+menggunakan buku. Sehingga, pihak manajemen stok TPKU mengalami kendala 
+seperti banyaknya buku yang digunakan dan kurang telitinya pendataan barang. 
+Oleh sebab itu, dibutuhkan sistem informasi pengelolaan stok yang dapat 
+membantu manajemen stok di TPKU agar lebih efektif dan efisien. Fungsi utama 
+sistem ini berfokus pada pendataan stok, stok opname, pencatatan keluar-masuk 
+barang, serta pembuatan laporan. Sistem ini hanya digunakan oleh pihak 
+berkepentingan seperti Kepala TPKU dan manajemen stok. 
+Dalam pengembangan sistem ini digunakan metode Spiral, dimana pada metode ini 
+dilakukan perencanaan, analisis, implementasi, evaluasi. Metode ini merupakan 
+salah satu metode pengembangan yang menggabungkan metode iteratif dan metode 
+waterfall. Sistem akan dibuat dengan Framework Laravel dan menggunakan bahasa 
+pemrograman PHP, Javascript, serta penggunaan database MySQL. Pengujian 
+menggunakan UEQ (User Experience Questionnaire) untuk mengetahui apakah 
+sistem informasi manajemen stok dapat mudah digunakan oleh pengguna. Hasil 
+dari pengujian UEQ menunjukkan skor keseluruhan (Overall) adalah 1,896 
+berdasarkan penilaian Kualitas Pragmatis yang mencapai skor 1,750 dan Kualitas 
+Hedonis yang mendapatkan skor 2,042.
 </td>
 </tr>
 </table>
@@ -56,25 +39,25 @@ Nama Lengkap (NIM) alamat@email.mu
 ## Demo
 ### Demo Online
 <!-- Optional Kalau ada demo online -->
-Demo Aplikasi online bisa dicoba disini :  https://alamat.demoproyek.mu/
+Demo Aplikasi online bisa dicoba disini : (http://143.198.91.106/login)
 
 ### Video Demo
 <!-- Wajib mencantumkan link video demo aplikasi, boleh link youtube atau link file video di github -->
-[![Watch the video](https://img.youtube.com/vi/vVJtfoD8daU/0.jpg)](https://youtu.be/vVJtfoD8daU?si=ovdwehS8Y_-dEBmD)
-
+[![Watch the video] https://youtu.be/TN_h8srZOag?si=oAqtVTV47qywwFAO
 
 ## Development
-<!-- Isikan kebutuhan hardware dan software(library, framework, dsb) disini -->
 ### Hardware
-- CPU Intel I5
-- RAM 512 MB (minimal)
-- HD/SSD 10GB
+- 11th Gen Intel(R) Core (TM) i5-1135G7
+- InteliRis 
+- 16 GB
+- SSD 512 GB 
 
 ### Software
-- Operating System: Windows/Linux/MacOS/Android
-- CPU Intel I5
-- RAM 1GB
-- ROM 2GB
+- Windows 11 Home Single Language 
+- Visual Studio Code
+- MySQL 
+- Laravel
+- PHP, Javascript 
 
 ## Dokumen
 
