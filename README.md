@@ -1,5 +1,6 @@
 # ![WebApp](https://github.com/Software-Engineering-TUS/12021210024-Sahitya/blob/main/images/Login.png) <!-- silakan ganti gambar dengan screenshoot aplikasi yang dikembangkan -->
-# Judul Tugas Akhir
+PENGEMBANGAN SISTEM INFORMASI MANAJEMEN STOK USAHA MIKRO KECIL MENENGAH MENGGUNAKAN METODE SPIRAL DI TEMPAT PRAKTEK KETERAMPILAN USAHA (TPKU) 
+PONDOK PESANTREN TEBU IRENG
 Sahitya Rizky Hadi Susetyo (1201210024) sahityasusetyo@student.telkomuniversity.ac.id
 ## Abstrak
 <table>
@@ -63,10 +64,10 @@ Demo Aplikasi online bisa dicoba disini : (http://143.198.91.106/login)
 
 ### Laporan Tugas Akhir
 <!-- Laporan tugas akhir yang sudah direvisi paling akhir -->
-Download disini: https://alamat.file.mu/laporan.pdf
+Download disini: https://drive.google.com/file/d/1QH0cdQYKHxkB02zIqm_4NeU_QsY5hYRC/view?usp=sharing
 
 ### Lembar Pengesahan
 <!-- Lembar Pengesahan yang sudah ditanda-tangani -->
-Download disini: https://alamat.file.mu/pengesahan.pdf
+Download disini: https://drive.google.com/file/d/1FZvOQDqsRMKb01oxNKyGweoPS2M2x9_G/view?usp=sharing
 
 
